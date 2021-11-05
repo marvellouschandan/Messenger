@@ -1,3 +1,16 @@
+target/
+.classpath
+.project
+.factorypath
+.settings/
+logs/
+bin/
+checkstyle.xml
+.idea/
+.vscode/
+*.class
+node_modules
+
 # Compiled class file
 *.class
 
